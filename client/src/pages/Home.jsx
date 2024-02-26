@@ -66,16 +66,8 @@ export default function Home() {
           Let's get started...
         </Link>
 
-         <p className="text-gray-400 text-xs sm:text-sm"> Images by <a href="https://www.freepik.com/author/vecstock" target="_blank"
-        >vecstock </a> & Icon by <a href="https://www.flaticon.com/authors/ekaysdsgn" target="_blank">ekays.dsgn</a></p>
-        
-          Images by <a
-          className="text-gray-400 text-xs sm:text-sm"
-          href="https://www.freepik.com/author/vecstock"
-        >vecstock </a> & Icon by <a
-          className="text-gray-400 text-xs sm:text-sm"
-          href="https://www.flaticon.com/authors/ekaysdsgn"
-        >ekays.dsgn</a>
+         <p className="text-gray-400 text-xs sm:text-sm">Images by <a href="https://www.freepik.com/author/vecstock" target="_blank"
+        >vecstock </a> & Icon by <a href="https://www.flaticon.com/authors/eklip-studio" target="_blank">Eklip Studio</a></p>
        
       </div>
 
