@@ -65,12 +65,15 @@ export default function Home() {
         >
           Let's get started...
         </Link>
-        <a
+        
+          Images by <a
           className="text-gray-400 text-xs sm:text-sm"
           href="https://www.freepik.com/author/vecstock"
-        >
-          Images by vecstock on Freepik
-        </a>
+        >vecstock </a> & Icon by <a
+          className="text-gray-400 text-xs sm:text-sm"
+          href="https://www.flaticon.com/authors/ekaysdsgn"
+        >ekays.dsgn</a>
+       
       </div>
 
       {/* swiper */}
