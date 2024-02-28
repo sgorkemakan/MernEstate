@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <div>
-      <ul className="flex flex-wrap justify-center mt-3 text-lg font-medium text-gray-500 sm:mt-0 pb-3">
+      <ul className="flex flex-wrap justify-center mt-3 text-md font-medium text-gray-500 sm:mt-0 pb-3">
         <li>
           <a
             href="mailto:s.gorkemakan@gmail.com"
